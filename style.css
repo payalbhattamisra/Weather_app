@@ -74,3 +74,9 @@ body{
 .weather h2{
     font-size: 30px;
 }
+.humidity{
+    font-size: 25px;
+}
+.wind{
+    font-size: 25px;
+}
